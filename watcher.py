@@ -167,7 +167,7 @@ def main():
     MyIoTs2.set_rotation(270)
 
     my_iots2 = MyIoTs2()
-    my_iots2.connect2Wifi('CMCC-c73Y', 'lysWiFiPasswd')
+    my_iots2.connect2Wifi('your-wifi-ssid', 'your-wifi-password')
     timestamp = my_iots2.get_timestamp()
     date_str, time_str = my_iots2.timestamp2local(timestamp)
     my_iots2.show_info(date_str, time_str)
