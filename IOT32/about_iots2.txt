@@ -1,0 +1,13 @@
+基于ESP32S2的IoTs2(Python版)来自Hangzhou HiiBot
+1) IoTs2的在线帮助和向导链接：
+https://python4iots2.readthedocs.io/en/latest/index.html
+2) IoTs2+RunGo小车的帮助文档：
+https://python4iots2.readthedocs.io/en/latest/iots2_extend/project/rungo_car.html
+3) /CIRCUITPY/iots2_examples/文件夹中包含IoTs2的多种示例程序，使用方法：
+首先将某个示例文件复制到你的电脑桌面，并将示例文件名修改为code.py，然后拖放该文件到CIRCUITPY磁盘的根目录并覆盖原来的code.py文件即可
+4) /CIRCUITPY/car_rungo_examples/文件夹中包含IoTs2+RunGo小车的多种示例程序，使用方法：
+首先将某个示例文件复制到你的电脑桌面，并将示例文件名修改为code.py，然后拖放该文件到CIRCUITPY磁盘的根目录并覆盖原来的code.py文件即可
+5) /CIRCUITPY/secrets.py文件中保存有联网的WiFi配置，需要你自行修改"ssid"和"password"的值，即“your_ap_name”和“your_ap_password”分别是你的WiFi热点名称和密码
+6) 在线编程和3D设计、3D编程请登录 
+https://www.ezaoyun.com
+

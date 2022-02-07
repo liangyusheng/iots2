@@ -1,0 +1,2 @@
+Adafruit CircuitPython 7.0.0-191-gec335c121-dirty on 2021-10-15; IoTs2 with ESP32S2
+Board ID:hiibot_iots2_v2
